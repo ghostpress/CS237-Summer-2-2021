@@ -1,0 +1,7 @@
+# Ignore textbook
+
+schaum_probability.pdf
+
+# Ignore jupyter notebook backup files
+
+.ipynb_checkpoints/
