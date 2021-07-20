@@ -5,3 +5,7 @@ schaum_probability.pdf
 # Ignore jupyter notebook backup files
 
 .ipynb_checkpoints/
+
+# Ignore output files
+
+*_output.pdf
