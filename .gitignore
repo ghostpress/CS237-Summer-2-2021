@@ -9,3 +9,4 @@ schaum_probability.pdf
 # Ignore output files
 
 *_output.pdf
+*.png
